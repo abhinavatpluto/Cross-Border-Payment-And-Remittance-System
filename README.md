@@ -1,10 +1,6 @@
 # Cross-Border-Payment-And-Remittance-System
 
 
-# Cross‑Border Payment & Remittance Platform — README
-
-> **Note:** This README intentionally omits any company name. It describes a microservices-based cross-border payment system implemented in Java (Java 8 baseline) with PostgreSQL, Spring Boot and other modern technologies. Each microservice follows the **MVC** pattern internally.
-
 ---
 
 ## Project Summary
