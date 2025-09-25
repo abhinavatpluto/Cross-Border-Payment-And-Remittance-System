@@ -13,9 +13,9 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
-        default_schema: transection_service   # ? Important
+        default_schema: transaction_service   # ? Important
 
   flyway:
     enabled: true
-    locations: classpath:db/migration/user_service
+    locations: classpath:db/migration/transaction_service
     schemas: user_service   # ? Flyway will track migrations per schema
